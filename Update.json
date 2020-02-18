@@ -1,7 +1,7 @@
 {
 	"data": {
-		"versionName": "1.9b",
-		"versionCode": 15,
-		"updateLog": "【新增】实验室-导入历史\n【优化】帮助文档 导入数据UI 支付宝账单导入流程\n【修复】彻底解决支付宝账单导入失败问题"
+		"versionName": "2.0.0 Preview",
+		"versionCode": 17,
+		"updateLog": "【新增】2.0版 新首页，搜索框，首页菜单，预算管理，文档使用Gitbook\n【优化】帮助文档"
 	}
 }
