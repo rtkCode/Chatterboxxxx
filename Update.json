@@ -1,7 +1,7 @@
 {
 	"data": {
-		"versionName": "2.0.0 Preview",
-		"versionCode": 17,
-		"updateLog": "【新增】2.0版 新首页，搜索框，首页菜单，预算管理，文档使用Gitbook\n【优化】帮助文档"
+		"versionName": "2.0.0",
+		"versionCode": 18,
+		"updateLog": "【新增】银行卡备份 开源许可证\n【优化】优化交互体验 优化交易筛选 优化交易列表"
 	}
 }
