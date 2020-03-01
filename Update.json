@@ -1,7 +1,7 @@
 {
 	"data": {
-		"versionName": "2.0.1",
-		"versionCode": 19,
-		"updateLog": "【优化】优化分类管理 优化主界面\n【修复】预算可能导致崩溃的BUG"
+		"versionName": "2.0.2",
+		"versionCode": 20,
+		"updateLog": "【新增】详细报表\n【优化】首页图表改为7日，切换收支 优化关于界面"
 	}
 }
