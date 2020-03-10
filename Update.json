@@ -1,7 +1,7 @@
 {
 	"data": {
-		"versionName": "2.0.2",
-		"versionCode": 20,
-		"updateLog": "【新增】详细报表\n【优化】首页图表改为7日，切换收支 优化关于界面"
+		"versionName": "2.0.3",
+		"versionCode": 21,
+		"updateLog": "【新增】1.年度报表 2.导入微信支付账单"
 	}
 }
