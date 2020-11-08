@@ -1,7 +1,7 @@
 {
 	"data": {
-		"versionName": "2.0.3fix",
-		"versionCode": 22,
-		"updateLog": "【修复】1.砍掉了预算功能，解决了由此带来的bug 2.升级到AndroidX"
+		"versionName": "2.0.4",
+		"versionCode": 23,
+		"updateLog": "【修复】修复10月数据无法正确显示的问题"
 	}
 }
